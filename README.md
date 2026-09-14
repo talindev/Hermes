@@ -1,1 +1,5 @@
-hi
+![logo](logo.png)
+
+# 🏛️ hermes 🏛️
+
+WIP
